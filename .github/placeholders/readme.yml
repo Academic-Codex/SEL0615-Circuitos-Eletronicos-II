@@ -1,0 +1,12 @@
+REPO_TAGLINE: Analog circuits • amplifiers • frequency response
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: board
+SITE_URL: https://academic-codex.github.io/SEL0615-Circuitos-Eletronicos-II
+
+BG_1: "#0C1A1A"
+BG_2: "#123333"
+TEXT_MAIN: "#E6FFFF"
+TEXT_MUTED: "#9FDADA"
+ACCENT: "#2DD4BF"
+CARD_RADIUS: "18"
