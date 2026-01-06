@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://Academic-Codex.github.io/SEL0615-Circuitos-Eletronicos-II">
-    <img src=".github/readme/hero.svg?v=2026-01-06T14:34:28.926768Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2026-01-06T15:36:21.846967Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
